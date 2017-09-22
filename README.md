@@ -37,6 +37,7 @@ Name it "todo-app" and accept the defaults.
 
  * a "module" is a combination of typescript class + html template
  * the templates contain only snippets an
+ * a "service" coordinates between the views and holds state as a singleton
 
 ### Useful VS Code Plugins
 
