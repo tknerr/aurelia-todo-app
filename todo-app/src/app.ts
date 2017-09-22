@@ -12,7 +12,7 @@ export class App {
       // see http://localhost:9000/#/todo/
       { route: 'todo', name: 'Todos', moduleId: 'todo/index' },
       // see http://localhost:9000/#/todo/add
-      { route: 'todo/add', name: 'Add new todo', moduleId: 'todo/add' }
+      { route: 'todo/add', name: 'Add Todo', moduleId: 'todo/add' }
     ]);
   }
 }
