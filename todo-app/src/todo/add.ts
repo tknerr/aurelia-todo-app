@@ -6,4 +6,8 @@ export class Add {
   constructor(
     private todoService: TodoService
   ) { }
+
+  addTodo() {
+    console.log("heck yes, let's add it!")
+  }
 }
