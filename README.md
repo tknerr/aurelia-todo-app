@@ -42,3 +42,8 @@ Name it "todo-app" and accept the defaults.
 
  * "Typescript Toolbox"
  * "Aurelia"
+
+### Create a new Component
+
+ * run `au generate component` with name "index" in folder "todo" to generate `todo/index.ts|html`
+ * run `au generate component` with name "add" in folder "todo" to generate `todo/add.ts|html`
