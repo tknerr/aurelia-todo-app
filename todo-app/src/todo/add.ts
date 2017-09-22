@@ -16,6 +16,6 @@ export class Add {
 
   addTodo() {
     console.log("heck yes, let's add it to the list!")
-    console.log(this.todo)
+    this.todoService.todos.push(this.todo)
   }
 }
